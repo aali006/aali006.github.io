@@ -1,10 +1,10 @@
 import type { Site, SocialObjects, TimelineObject } from "./types";
 
 export const SITE: Site = {
-  website: "https://d2atta.github.io", // replace this with your deployed domain
-  author: "Debarghya Datta",
+  website: "https://aali006.github.io", // replace this with your deployed domain
+  author: "Asmat Ali",
   desc: "A minimal, responsive and SEO-friendly Portfolio/Blog.",
-  title: "D2P",
+  title: "A2",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 4,
